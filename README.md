@@ -48,7 +48,7 @@ python manage.py runserver
 Access the stored FAQ's and create new one's in the admin panel at `http://127.0.0.1:8000/faqs/?format=json` and `http://127.0.0.1:8000/admin/` respectively.
 
 ## Contributions 
-We welcome contributions to carry forward and scale up this plain FAQ system.
+Contributions to carry forward and scale up this plain FAQ system are welcomed.
 
 ## License
 Project is licensed under the MIT License.
